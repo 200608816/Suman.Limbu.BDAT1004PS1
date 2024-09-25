@@ -1,0 +1,14 @@
+1. What data type is each of the following (evaluate where necessary)? 
+
+5 - integer
+5.0 - float
+5 > 1 - Boolean
+'5' - string
+5 * 2 - integer
+'5' * 2 - string
+'5' + '2' - string
+5 / 2 - float
+5 %2 - integer
+{5, 2, 1} - set
+5 == 3 - Boolean
+Pi (the number) - float
